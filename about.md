@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: "About"
 ---
 I am currently a fifth-year PhD candidate at the University of Florida, where I am advised by <a href = "https://people.clas.ufl.edu/ratree/">Dr. Ratree Wayland</a>. 
