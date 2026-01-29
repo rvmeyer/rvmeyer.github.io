@@ -2,7 +2,7 @@ menu:
 - {name: 'about', url: '/about'}
 - {name: 'publications', url: '/publications'}
 #- {name: 'projects', url: '/courses'}
-- {name: 'cv', url: '/assets/cv_rm_2025-3.pdf'}
+- {name: 'cv', url: '/assets/cv_rm_2025-7.pdf'}
 - {name: 'contact', url: '/contact'}
 
 people:
