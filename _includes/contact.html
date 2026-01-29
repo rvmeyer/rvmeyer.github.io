@@ -4,8 +4,8 @@
     <div class="row g-5 mb-5">
      <div class="col-md-6">
       {% for contact in site.data.settings.contacts %}
-       <h4>{{ contact.name }}</h4>
-       <p>{{ contact.title }} | {{ contact.department }}</p>
+       <h4>{{ site.data.settings.contacts.name }}</h4>
+       <p>{{ site.data.settings.contacts.title }} | {{ site.data.settings.contacts.contact.department }}</p>
        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
        <p>{{ contact.email }}</p>
        <p>{{ contact.github }}</p>
