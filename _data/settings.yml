@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Rachel Meyer', title: 'PhD Candidate', department: 'Linguistics', institution: 'University of Florida', institution_address: 'Gainesville, Florida, USA', email: '<a href = "mailto:rvmeyer713@gmail.com>Email</a>', github: '<a href ="github.com/rvmeyer">Github</a>', linkedin: '<a href = "linkedin.com">LinkedIn', image: 'assets/beach_pic.png'}
+- {name: 'Rachel Meyer', title: 'PhD Candidate', department: 'Linguistics', institution: 'University of Florida', institution_address: 'Gainesville, Florida, USA', email: '<a href = "mailto:rvmeyer713@gmail.com">Email</a>', github: '<a href ="www.github.com/rvmeyer">Github</a>', linkedin: '<a href = "www.linkedin.com/in/rachel-meyer-a4b5a43a9">LinkedIn', image: 'assets/beach_pic.png'}
