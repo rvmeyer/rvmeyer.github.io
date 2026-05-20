@@ -25,6 +25,7 @@ index:
 - {name: 'R. Wayland, K. Tang, F. Wang, S. Vellozzi, R. Meyer, and R. Sengupta, “Neural network-based measure of consonant lenition in Parkinson’s Disease,” in Proceedings of Meetings on Acoustics, AIP Publishing, vol. 52, 2023.', url: 'https://pubs.aip.org/asa/poma/article/52/1/060003/3304688/Neural-network-based-measure-of-consonant-lenition'}
 
 pres:
+- {name: 'R. Meyer, “Toward customizable forced alignment for dialectal Arabic speech,” Talk given at the 39th Annual Symposium on Arabic Linguistics. Bloomington, Indiana. 2026.'}
 #no 
 - {name: 'N. Venkateswaran, R. Meyer, and R. Wayland, “Using self-supervised speech representations to track Parkinson’s Disease severity,” Poster presented at the 189th Meeting of the Acoustical Society of America. Honolulu, Hawaii, 2025.'}
 #post this
